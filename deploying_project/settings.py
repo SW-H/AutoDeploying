@@ -25,7 +25,7 @@ SECRET_KEY = 'no0^kj+i)iqhb=1g3a$xt203r6_%*p&ox26v%)srjcg3047j%t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://eb-test-project.eba-9sccg3ra.ap-northeast-2.elasticbeanstalk.com','127.0.0.1']
+ALLOWED_HOSTS = ['1216-1.eba-mmftbp3g.ap-northeast-2.elasticbeanstalk.com','127.0.0.1']
 
 
 # Application definition
